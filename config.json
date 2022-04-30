@@ -1,0 +1,5 @@
+{
+    "token": "OTY4MjIyOTAxMTg0NjI2NzQ5.Ymbt2A.HKYYlG8BmqBiyud7oW9PXvLxTm4",
+    "prefix": "!",
+    "mongooseConnectionString": "mongodb+srv://Kitekat:Manrol1971@cluster0.vlbn9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
